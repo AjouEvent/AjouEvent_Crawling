@@ -182,7 +182,7 @@
   {
     "type": 1,
     "englishTopic": "InformationTechnology",
-    "koreanTopic": "정보통신대학",
+    "koreanTopic": "첨단ICT융합대학",
     "noticeUrl": "https://it.ajou.ac.kr/it/board/notice.do"
   },
   {
@@ -340,5 +340,11 @@
     "englishTopic": "LiberalStudies",
     "koreanTopic": "자유전공학부",
     "noticeUrl": "https://pre.ajou.ac.kr/pre/community/notice.do"
+  },
+  { 
+    "type": 1,
+    "englishTopic": "BioConvergenceEngineering",
+    "koreanTopic": "첨단바이오융합대학",
+    "noticeUrl": "https://ibio.ajou.ac.kr/ibio/data/data01.do"
   }
 ]
